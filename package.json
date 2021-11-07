@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/asadg7/just-tech-news#readme",
   "dependencies": {
+    "bcrpyt": "^2.0.0",
+    "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mysql2": "^2.3.3-rc.0",
